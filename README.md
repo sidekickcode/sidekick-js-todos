@@ -1,2 +1,3 @@
 # sidekick-js-todos
-Finds TODO and FIXME comments in JavaScript code.
+
+[Sidekick](https://sidekickcode.com) analyser that finds TODO and FIXME comments in JavaScript code.
