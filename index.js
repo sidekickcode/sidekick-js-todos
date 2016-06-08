@@ -4,7 +4,7 @@ const sidekickAnalyser = require("@sidekick/analyser-common");
 
 const todos = require("js-todos");
 
-const annotationDefaults = {analyserName: 'js-todos'};
+const annotationDefaults = {analyserName: 'sidekick-js-todos'};
 
 if(require.main === module) {
   execute();
